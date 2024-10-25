@@ -1,0 +1,33 @@
+{
+  "subscriptionSummaries": [
+    {
+      "associationSubscriptionId": 74,
+      "title": "Yearly Plan",
+      "isNational": true,
+      "validityInDays": 365,
+      "currencyCode": "₹",
+      "currencyCountryId": 1,
+      "subscriptionFee": 3500,
+      "totalFee": 3850,
+      "tax": 10,
+      "noOfSubscribers": 0
+    },
+    {
+      "associationSubscriptionId": 75,
+      "title": "Lifetime Member",
+      "isNational": true,
+      "validityInDays": 0,
+      "currencyCode": "₹",
+      "currencyCountryId": 1,
+      "subscriptionFee": 25000,
+      "totalFee": 27500,
+      "tax": 10,
+      "noOfSubscribers": 1
+    }
+  ],
+  "createdDate": "2024-10-09T05:42:14.848413",
+  "associationMembershipId": 63,
+  "title": "Atma Foundation Supporter",
+  "description": "Join the Atma Foundation as a Supporter and become part of a community dedicated to fostering holistic well-being and sustainable development. As a member, you'll receive exclusive updates on our initiatives, access to educational resources, and invi",
+  "associationId": 178
+}
