@@ -1,0 +1,18 @@
+[
+  {
+    "associationCommitteeId": 213,
+    "associationId": 178,
+    "associationCommitteeName": "Board of Trustees ",
+    "associationCommitteeTypeId": 5,
+    "associationCommitteeType": "Committee",
+    "establishedDate": "2024-10-10T04:03:24.190983"
+  },
+  {
+    "associationCommitteeId": 214,
+    "associationId": 178,
+    "associationCommitteeName": "Managing Committee ",
+    "associationCommitteeTypeId": 5,
+    "associationCommitteeType": "Committee",
+    "establishedDate": "2024-10-10T04:06:11.538946"
+  }
+]
