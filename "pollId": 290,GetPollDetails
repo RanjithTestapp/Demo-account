@@ -1,0 +1,55 @@
+{
+  "pollQuestions": [
+    {
+      "pollQuestionId": 378,
+      "pollId": 0,
+      "pollOrSurveyAnswerTypeId": 105,
+      "questionContent": "What is the most pressing health issue you believe our community faces?",
+      "answers": [
+        {
+          "pollAnswerId": 1717,
+          "answerContent": "Mental Health Awareness and Support",
+          "noOfVotes": 0
+        },
+        {
+          "pollAnswerId": 1718,
+          "answerContent": "Access to Healthcare Services",
+          "noOfVotes": 0
+        },
+        {
+          "pollAnswerId": 1719,
+          "answerContent": "Nutrition and Healthy Eating",
+          "noOfVotes": 0
+        },
+        {
+          "pollAnswerId": 1720,
+          "answerContent": "Physical Fitness and Exercise Programs\n Chronic Disease Prevention",
+          "noOfVotes": 0
+        }
+      ],
+      "answerObj": null
+    }
+  ],
+  "pollTargetAudience": {
+    "pollTargetAudienceId": 255,
+    "pollId": 290,
+    "pollOrSurveyTargetTypeId": 99,
+    "pollOrSurveyTargetType": "All Members",
+    "pollTargetId": []
+  },
+  "isPollCreator": true,
+  "status": "Active",
+  "noOfVotes": 0,
+  "noOfReports": 0,
+  "creatorName": "Mr.C.K Suresh",
+  "domainTypeName": "Poll",
+  "pollCurrentStatus": "Ongoing",
+  "hasVoted": false,
+  "pollId": 290,
+  "associationId": 178,
+  "domainTypeId": 14,
+  "title": "Health Needs Assessment",
+  "description": "At Atma Foundation, we are committed to understanding and addressing the health needs of our community. Your feedback is essential in shaping our upcoming health initiatives. Please take a moment to participate in this poll.",
+  "startDate": "2024-10-10T09:00:00",
+  "endDate": "2025-01-31T18:00:00"
+}
