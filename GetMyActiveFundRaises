@@ -1,0 +1,167 @@
+[
+  {
+    "fundRaisingId": 168,
+    "title": "Fund Raise For Association Members",
+    "description": "",
+    "currencyCode": "₹",
+    "currencyCountryId": 1,
+    "targetAmount": 2180075,
+    "isTaxBenefitApplicable": false,
+    "fundRaisingType": "Private Funding",
+    "fundRaisingCategory": "Faith",
+    "fundRaisingStatus": "Active",
+    "createdBy": "Varma S",
+    "createdDate": "2024-10-21T07:43:58.427821",
+    "donors": 2,
+    "raisedAmount": 4000,
+    "noOfReported": 0,
+    "createdUserProfilePic": null,
+    "fundRaisingRequestFor": null,
+    "fundRaisingRequestForId": 0,
+    "percentOfAmountRaised": 0.18,
+    "targetEndDate": "2025-07-18T00:00:00",
+    "images": []
+  },
+  {
+    "fundRaisingId": 167,
+    "title": "Fund Raise For Charity",
+    "description": "",
+    "currencyCode": "₹",
+    "currencyCountryId": 1,
+    "targetAmount": 321111,
+    "isTaxBenefitApplicable": false,
+    "fundRaisingType": "Crowd Funding",
+    "fundRaisingCategory": "Charity",
+    "fundRaisingStatus": "InReview",
+    "createdBy": "Varma S",
+    "createdDate": "2024-10-21T07:33:56.242406",
+    "donors": 0,
+    "raisedAmount": 0,
+    "noOfReported": 0,
+    "createdUserProfilePic": null,
+    "fundRaisingRequestFor": null,
+    "fundRaisingRequestForId": 0,
+    "percentOfAmountRaised": 0,
+    "targetEndDate": "2025-01-16T00:00:00",
+    "images": []
+  },
+  {
+    "fundRaisingId": 166,
+    "title": "Fund Raise For Children",
+    "description": "",
+    "currencyCode": "₹",
+    "currencyCountryId": 1,
+    "targetAmount": 50000,
+    "isTaxBenefitApplicable": false,
+    "fundRaisingType": "Private Funding",
+    "fundRaisingCategory": "Charity",
+    "fundRaisingStatus": "Active",
+    "createdBy": "Varma S",
+    "createdDate": "2024-10-21T07:28:34.900837",
+    "donors": 0,
+    "raisedAmount": 20000,
+    "noOfReported": 0,
+    "createdUserProfilePic": null,
+    "fundRaisingRequestFor": null,
+    "fundRaisingRequestForId": 0,
+    "percentOfAmountRaised": 40,
+    "targetEndDate": "2025-02-28T00:00:00",
+    "images": []
+  },
+  {
+    "fundRaisingId": 161,
+    "title": "Fund Raise To Save Wild Life ",
+    "description": "Help protect endangered species and preserve their natural habitats by contributing to our wildlife conservation fund. Your support will directly aid in rescue efforts, habitat restoration, and sustainable solutions to safeguard the future of wildlife. Every donation makes a difference. Join us in saving our planet's most vulnerable creatures!",
+    "currencyCode": "₹",
+    "currencyCountryId": 1,
+    "targetAmount": 250000,
+    "isTaxBenefitApplicable": true,
+    "fundRaisingType": "Private Funding",
+    "fundRaisingCategory": "Animal",
+    "fundRaisingStatus": "Active",
+    "createdBy": "Varma S",
+    "createdDate": "2024-10-19T06:53:25.634248",
+    "donors": 0,
+    "raisedAmount": 150000,
+    "noOfReported": 0,
+    "createdUserProfilePic": null,
+    "fundRaisingRequestFor": null,
+    "fundRaisingRequestForId": 0,
+    "percentOfAmountRaised": 60,
+    "targetEndDate": "2025-02-28T00:00:00",
+    "images": [
+      {
+        "fundRaisingGalleryId": 243,
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/2d43ba02-455c-4628-acfa-0012ba61b6d5.jpg"
+      },
+      {
+        "fundRaisingGalleryId": 244,
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/c0639af9-118e-477e-838d-c07f21a85b51.jpg"
+      }
+    ]
+  },
+  {
+    "fundRaisingId": 137,
+    "title": "Fund raise for conducting association event",
+    "description": "We are excited to announce Event an event that promises to bring together our community for a meaningful cause. This gathering will not only be a celebration but also a powerful platform to raise awareness and funds for event.",
+    "currencyCode": "AUD",
+    "currencyCountryId": 14,
+    "targetAmount": 98764,
+    "isTaxBenefitApplicable": true,
+    "fundRaisingType": "Private Funding",
+    "fundRaisingCategory": "Event",
+    "fundRaisingStatus": "Active",
+    "createdBy": "Varma S",
+    "createdDate": "2024-08-21T11:14:54.058859",
+    "donors": 0,
+    "raisedAmount": 0,
+    "noOfReported": 0,
+    "createdUserProfilePic": null,
+    "fundRaisingRequestFor": null,
+    "fundRaisingRequestForId": 0,
+    "percentOfAmountRaised": 0,
+    "targetEndDate": "2025-02-28T00:00:00",
+    "images": [
+      {
+        "fundRaisingGalleryId": 221,
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/AssociationFiles/images (7).jpg"
+      },
+      {
+        "fundRaisingGalleryId": 222,
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/AssociationFiles/vltlogy23k1iid9pjffx.jpg"
+      }
+    ]
+  },
+  {
+    "fundRaisingId": 117,
+    "title": "Fund raise for poor children education ",
+    "description": "Education is the foundation of a brighter future, yet millions of children around the world are denied this basic right due to poverty. Our charity is dedicated to breaking this cycle by providing quality education to underprivileged children, giving them the tools they need to escape poverty and achieve their dreams.\n\nThis fundraiser aims to raise vital funds to support educational programs, provide school supplies, and offer scholarships to those who need them most.",
+    "currencyCode": "USD",
+    "currencyCountryId": 240,
+    "targetAmount": 76544,
+    "isTaxBenefitApplicable": true,
+    "fundRaisingType": "Private Funding",
+    "fundRaisingCategory": "Charity",
+    "fundRaisingStatus": "Active",
+    "createdBy": "Varma S",
+    "createdDate": "2024-08-19T10:13:28.746922",
+    "donors": 0,
+    "raisedAmount": 0,
+    "noOfReported": 0,
+    "createdUserProfilePic": null,
+    "fundRaisingRequestFor": null,
+    "fundRaisingRequestForId": 0,
+    "percentOfAmountRaised": 0,
+    "targetEndDate": "2025-02-28T00:00:00",
+    "images": [
+      {
+        "fundRaisingGalleryId": 181,
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/AssociationFiles/soc2294-gls-blog-images-refresh40.jpg"
+      },
+      {
+        "fundRaisingGalleryId": 182,
+        "imageUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/AssociationFiles/-53548182595.jpg"
+      }
+    ]
+  }
+]
