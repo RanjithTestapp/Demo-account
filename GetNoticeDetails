@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "associationNoticeGalleryId": 186,
+      "associationNoticeId": 90,
+      "galleryTypeId": 55,
+      "galleryItemUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/aaec2ce5-7020-4038-ac75-f8ee0c8e46e3.jpg"
+    }
+  ],
+  "documents": [],
+  "targetAudiences": {
+    "associationNoticeAudienceId": 192,
+    "associationNoticeId": 90,
+    "noticeTargetTypeId": 94,
+    "noticeTargetType": "All Members",
+    "targetList": null,
+    "noticeTarget": []
+  },
+  "createdDate": "2024-07-02T06:48:25.059679",
+  "associationNoticeId": 90,
+  "associationId": 24,
+  "noticeTypeId": 91,
+  "noticeType": "Safety & Security",
+  "title": "Notice regarding weather update and precautions to be taken",
+  "description": "Notice: Severe Weather Alert\nDue to forecasted severe weather, please take necessary precautions. Ensure all windows and doors are securely closed. Avoid\n   unnecessary travel and stay indoors if possible. Keep emergency supplies, including food, water",
+  "cta": null,
+  "ctaurl": null
+}
