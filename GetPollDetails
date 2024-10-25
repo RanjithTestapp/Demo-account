@@ -1,0 +1,50 @@
+{
+  "pollQuestions": [
+    {
+      "pollQuestionId": 380,
+      "pollId": 0,
+      "pollOrSurveyAnswerTypeId": 105,
+      "questionContent": "Which digital skills are you most interested in learning?",
+      "answers": [
+        {
+          "pollAnswerId": 1725,
+          "answerContent": "Basic Computer Skills",
+          "noOfVotes": 0
+        },
+        {
+          "pollAnswerId": 1726,
+          "answerContent": "Social Media and Online Marketing",
+          "noOfVotes": 0
+        },
+        {
+          "pollAnswerId": 1727,
+          "answerContent": "Financial Management Tools",
+          "noOfVotes": 0
+        }
+      ],
+      "answerObj": null
+    }
+  ],
+  "pollTargetAudience": {
+    "pollTargetAudienceId": 257,
+    "pollId": 292,
+    "pollOrSurveyTargetTypeId": 101,
+    "pollOrSurveyTargetType": "Anyone",
+    "pollTargetId": []
+  },
+  "isPollCreator": true,
+  "status": "Active",
+  "noOfVotes": 0,
+  "noOfReports": 0,
+  "creatorName": "Mr.C.K Suresh",
+  "domainTypeName": "Poll",
+  "pollCurrentStatus": "Ongoing",
+  "hasVoted": false,
+  "pollId": 292,
+  "associationId": 178,
+  "domainTypeId": 14,
+  "title": "Digital Skills Training Needs",
+  "description": "As part of our Digital Empowerment initiative, we aim to enhance digital literacy in our community. Your feedback will guide us in developing effective training programs.",
+  "startDate": "2024-10-09T15:30:00",
+  "endDate": "2025-01-31T18:00:00"
+}
