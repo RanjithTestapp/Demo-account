@@ -1,0 +1,41 @@
+[
+  {
+    "createdDate": "2024-10-09T07:26:42.706846",
+    "images": "[\"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/835925c1-472f-4546-889d-4776fe740876.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/e42b1eee-092d-4334-8fc3-92e5306c9168.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/c27f9dee-54f9-4771-855d-e02b149a69c3.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/a6c0048a-42d8-4d5a-a0d1-b97151e0f1dc.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/5ab91342-f39e-47f8-b7d7-3e30b60cb2ec.jpg\"]",
+    "associationNoticeId": 188,
+    "associationId": 178,
+    "noticeTypeId": 90,
+    "noticeType": "Health & Wellness ",
+    "title": "Community Health Initiative",
+    "description": "The Community Health Initiative aims to enhance the overall health and well-being of our community through education, resources, and support. Our focus is on promoting healthy lifestyles and providing access to essential health services",
+    "cta": null,
+    "ctaurl": null,
+    "targetAudiences": null
+  },
+  {
+    "createdDate": "2024-10-09T07:22:52.334783",
+    "images": "[\"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/06f6a6eb-7b37-4254-8097-11db046212ba.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/52027ca1-befb-4681-9519-739e237c8775.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/8fd95b0a-0da0-49c0-b68e-3f600a2be6c8.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/9b531255-3fb9-4e4c-ba1d-87dbbded2d6c.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/5404a407-ac09-4ff8-a025-874680ce57a2.jpg\"]",
+    "associationNoticeId": 187,
+    "associationId": 178,
+    "noticeTypeId": 86,
+    "noticeType": "Announcement",
+    "title": "ATMA Digital & Financial Empowerment Centre",
+    "description": "The ATMA Digital & Financial Empowerment Centre is dedicated to providing individuals, especially women, with essential skills and knowledge in the digital and financial realms. Our aim is to empower participants to thrive in today’s fast-paced",
+    "cta": null,
+    "ctaurl": null,
+    "targetAudiences": null
+  },
+  {
+    "createdDate": "2024-10-09T07:08:26.296145",
+    "images": "[\"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/70253db4-0ecd-483d-81a9-5278b03f6b8f.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/429981e4-9e70-46e7-8baf-fa413a30b4b1.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/d34f18d8-0f03-41f7-801e-16ef8005e245.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/c2511d65-5cc7-4f62-8224-70f051da08d8.jpg\", \"https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/1db4627b-8fab-42f1-aa69-9e8af4241cf4.jpg\"]",
+    "associationNoticeId": 186,
+    "associationId": 178,
+    "noticeTypeId": 90,
+    "noticeType": "Health & Wellness ",
+    "title": "Women Empowerment workshop",
+    "description": "Join us for our Women Empowerment Workshop, designed to inspire and equip women for personal and professional growth. This interactive session will cover the Financial Literacy,Learn budgeting.",
+    "cta": null,
+    "ctaurl": null,
+    "targetAudiences": null
+  }
+]
