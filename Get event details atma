@@ -1,0 +1,69 @@
+{
+  "bannerUrls": [
+    {
+      "eventGalleryId": 329,
+      "galleryItemUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/eeb56631-5fd5-4656-ab6d-711281f4d97c.jpg"
+    }
+  ],
+  "eventRegistrationDetails": [],
+  "agenda": [],
+  "eventOrganizingCommittees": [
+    {
+      "associationCommitteeId": 213,
+      "associationCommitteeName": "Board of Trustees ",
+      "associationCommitteeTypeId": 5,
+      "associationCommitteeType": "Committee",
+      "establishedDate": "2024-10-10T04:03:24.190983",
+      "description": "Board of Trustees is a governing body responsible for overseeing the activities, management, and strategic direction of an organization, typically in non-profit, educational, or healthcare institutions. Trustees are appointed or elected to ensure the organization fulfills its mission, remains financially healthy, and complies with legal and regulatory requirements.",
+      "noOfMembers": 4
+    }
+  ],
+  "eventGuidelines": {
+    "eventGuidelineId": 204,
+    "eventId": 264,
+    "registrationGuidelines": null,
+    "cancellationGuidelines": null,
+    "importantGuidelines": null
+  },
+  "eventAccountInfo": null,
+  "hasRegistered": false,
+  "totalRegistrations": 0,
+  "categoryName": null,
+  "createdBy": 1216,
+  "isFeaturedEvent": false,
+  "isBookmarked": false,
+  "eventRegistrationDetailId": 0,
+  "eventRegisteredDate": null,
+  "isOnSpotRegistration": false,
+  "associationName": "ATMA FOUNDATION",
+  "eventId": 264,
+  "associationId": 178,
+  "categoryType": "Religion & Spirituality",
+  "title": "NGOs for the Future: Empowering NGOs and Voluntary Organisations",
+  "description": "On July 13th 2024, ATMA Foundation hosted a comprehensive one-day capacity building workshop, \"NGOs for the Future,\" designed to support and empower grassroots-level NGOs and nonprofit entities. The event brought together 46 delegates from 29 organizations, providing a unique platform for knowledge sharing, capacity building, and collaboration. The workshop's diverse agenda covered essential topics such as Branding and Social Media Management, Documentation and Reporting, and Fundraising and Res",
+  "cityName": "Hyderabad",
+  "cityId": 1,
+  "stateId": 32,
+  "countryId": 1,
+  "eventMode": "Online",
+  "registrationStartDate": "2024-10-21T00:00:00",
+  "registrationEndDate": "2024-10-31T00:00:00",
+  "eventStartDate": "2024-10-21T18:00:00",
+  "eventEndDate": "2025-01-31T12:40:00",
+  "broucherUrl": "",
+  "address": "Kalavad Road, Maruti Nagar, Nana Mava, Rajkot, Gujarat, India",
+  "videoUrl": "",
+  "eventStatus": "In Review",
+  "phoneCode": "+91",
+  "phoneCountryId": 1,
+  "contactNumber": "8989235695",
+  "contactEmail": "ngo.atamafoundation@gmail.com",
+  "webSite": "",
+  "geolocation": {
+    "x": 22.28236069999999,
+    "y": 70.76778709999999
+  },
+  "isFreeEvent": true,
+  "noOfSeats": 50,
+  "isPrivateEvent": true
+}
