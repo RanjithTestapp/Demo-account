@@ -1,0 +1,27 @@
+[
+  {
+    "count": 1,
+    "associationContactCategoryId": 711,
+    "name": "Financial Consultants"
+  },
+  {
+    "count": 1,
+    "associationContactCategoryId": 706,
+    "name": "Catering Services"
+  },
+  {
+    "count": 1,
+    "associationContactCategoryId": 708,
+    "name": "Conference Organizers"
+  },
+  {
+    "count": 1,
+    "associationContactCategoryId": 723,
+    "name": "Social Media Managers"
+  },
+  {
+    "count": 1,
+    "associationContactCategoryId": 703,
+    "name": "Accountants"
+  }
+]
