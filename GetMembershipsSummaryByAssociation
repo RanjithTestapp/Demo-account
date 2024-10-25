@@ -1,0 +1,64 @@
+[
+  {
+    "associationMembershipId": 63,
+    "title": "Atma Foundation Supporter",
+    "description": "Join the Atma Foundation as a Supporter and become part of a community dedicated to fostering holistic well-being and sustainable development. As a member, you'll receive exclusive updates on our initiatives, access to educational resources, and invi",
+    "subscriptionSummaries": [
+      {
+        "associationSubscriptionId": 74,
+        "title": "Yearly Plan",
+        "isNational": true,
+        "validityInDays": 365,
+        "currencyCode": "₹",
+        "currencyCountryId": 0,
+        "subscriptionFee": 3500,
+        "totalFee": 3850,
+        "tax": 10,
+        "noOfSubscribers": 0
+      },
+      {
+        "associationSubscriptionId": 75,
+        "title": "Lifetime Member",
+        "isNational": true,
+        "validityInDays": 0,
+        "currencyCode": "₹",
+        "currencyCountryId": 0,
+        "subscriptionFee": 25000,
+        "totalFee": 27500,
+        "tax": 10,
+        "noOfSubscribers": 1
+      }
+    ]
+  },
+  {
+    "associationMembershipId": 64,
+    "title": "Atma Foundation Advocate",
+    "description": "Join the Atma Foundation as an Advocate and take an active role in promoting our mission for holistic well-being and sustainable development. As an Advocate, you'll receive exclusive insights into our projects, priority access to events",
+    "subscriptionSummaries": [
+      {
+        "associationSubscriptionId": 76,
+        "title": "3 years Plan",
+        "isNational": true,
+        "validityInDays": 1095,
+        "currencyCode": "₹",
+        "currencyCountryId": 0,
+        "subscriptionFee": 10000,
+        "totalFee": 11500,
+        "tax": 15,
+        "noOfSubscribers": 0
+      },
+      {
+        "associationSubscriptionId": 77,
+        "title": "Life Time Plan",
+        "isNational": true,
+        "validityInDays": 0,
+        "currencyCode": "₹",
+        "currencyCountryId": 0,
+        "subscriptionFee": 50000,
+        "totalFee": 57500,
+        "tax": 15,
+        "noOfSubscribers": 0
+      }
+    ]
+  }
+]
