@@ -1,0 +1,24 @@
+{
+  "committees": [
+    {
+      "id": 213,
+      "title": "Board of Trustees ",
+      "count": 4
+    },
+    {
+      "id": 214,
+      "title": "Managing Committee ",
+      "count": 3
+    }
+  ],
+  "groups": [],
+  "membersCount": 7,
+  "committeesCount": 2,
+  "groupsCount": 0,
+  "pendingApprovals": 0,
+  "invited": 4,
+  "past": 0,
+  "officeBearers": 1,
+  "admins": 1,
+  "guests": 0
+}
