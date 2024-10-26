@@ -1,0 +1,26 @@
+{
+  "userAccountInfoId": 0,
+  "name": "Karan",
+  "bankName": "Bank of india",
+  "bankAccountNumber": "707664u7u44",
+  "bankRoutingTypeId": 46,
+  "bankRoutingCode": "BOI",
+  "upiId": "",
+  "bankingPaymentTypeId": 170,
+  "isDefault": true,
+  "userAccountKycDocument": 
+[
+    {
+      "kycTypeId": 117,
+      "kycDocumentUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/addar/INVY161000.pdf",
+      "userAccountDocumentId": 0
+    },
+
+    {
+      "kycTypeId": 118,
+      "kycDocumentUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Pan/INV Yearly 16 998 (10).pdf",
+      "userAccountDocumentId": 0
+    }
+ 
+]
+}
